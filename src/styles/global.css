@@ -1,9 +1,8 @@
-@tailwund base;
-@tailwund components;
-@tailwund utilities;
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
-
-body{
-    @apply bg-purple-800 text-gray-100;
-    -webkit-font-smoothing: antialised;
+body {
+  @apply bg-purple-800 text-gray-100;
+  -webkit-font-smoothing: antialiased;
 }
